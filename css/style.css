@@ -1,0 +1,76 @@
+body, html{
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    font-family: rockwell, sans-serif;
+    background-color: black;
+    color: white;
+    line-height: 120px;
+    font-size: 26px;
+    height: 120px;
+    text-align: center;
+    margin-top: 20px;
+}
+.recipe {
+    font-family: rockwell, sans-serif;
+    background-color: black;
+    color: white;
+    line-height: 120px;
+    height: 120px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2 {
+    font-family: rockwell, sans-serif;
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    font-family: rockwell, sans-serif;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.ingredients {
+    margin: auto;
+    width: 40%;
+    border: 3px solid black;
+    padding-right: 40px;
+    font-family: helvetica;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 60%;
+    
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: black;
+}
+
+.method {
+    color: white;
+    background-color: black;
+    width: 100%;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    margin-top: 30px;
+    font-family: helvetica;
+}
+
+.steps {
+    margin-left: 30px;
+    margin-right: 30px;
+}
